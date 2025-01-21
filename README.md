@@ -23,4 +23,5 @@ I am passionate about transforming data into actionable insights and building AI
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jatin-sharma03/))  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/yourprofile)](https://kaggle.com/yourprofile)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/yourprofile)](https://kaggle.com/yourprofile)
+[![Tableau](https://images.app.goo.gl/k72ZXKAx7BxY6nbe8)](https://kaggle.com/yourprofile)  
