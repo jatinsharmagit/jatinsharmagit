@@ -22,6 +22,6 @@ I am passionate about transforming data into actionable insights and building AI
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jatin-sharma03/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jatin-sharma03/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-sharma03/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jatin-sharma03/))  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://kaggle.com/yourprofile)](https://kaggle.com/yourprofile)
 
