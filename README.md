@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Jatin Sharma
 
 ### 🚀 Marketing Analyst | Data Scientist | AI Enthusiast  
 
